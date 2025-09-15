@@ -7,4 +7,18 @@ D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.GenerateResourc
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.CoreCompileInputs.cache
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.exe
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.pdb
+<<<<<<< HEAD
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.exe.config
+=======
+D:\GitTest\branch Soon\git-remote\git-remote\bin\x64\Debug\git-remote.exe.config
+D:\GitTest\branch Soon\git-remote\git-remote\bin\x64\Debug\git-remote.exe
+D:\GitTest\branch Soon\git-remote\git-remote\bin\x64\Debug\git-remote.pdb
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.AssemblyReference.cache
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.exe.config
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git_remote.Form1.resources
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git_remote.Properties.Resources.resources
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.GenerateResource.cache
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.CoreCompileInputs.cache
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.exe
+D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.pdb
+>>>>>>> 008d0fec087bf026c1324795059e0c8511488ee6
