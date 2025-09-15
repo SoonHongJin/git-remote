@@ -23,5 +23,10 @@ namespace git_remote
         {
 
         }
+
+        private void Func2()
+        {
+
+        }
     }
 }

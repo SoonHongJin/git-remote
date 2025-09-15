@@ -7,3 +7,4 @@ D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.GenerateResourc
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.CoreCompileInputs.cache
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.exe
 D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.pdb
+D:\GitTest\git-remote\git-remote\obj\x64\Debug\git-remote.exe.config
