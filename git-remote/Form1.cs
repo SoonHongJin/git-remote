@@ -21,7 +21,7 @@ namespace git_remote
 
         public void InitFunc()
         {
-
+            a = 1 + 2;
         }
 
         private void Func2()
