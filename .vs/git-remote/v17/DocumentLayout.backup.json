@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\GitTest\\branch main\\git-remote\\",
   "Documents": [
     {
@@ -8,6 +9,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{657906B6-AF2B-4B61-8211-8863240A804E}|git-remote\\git-remote.csproj|D:\\GitTest\\branch main\\git-remote\\git-remote\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+  "WorkspaceRootPath": "D:\\GitTest\\branch ci\\git-remote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657906B6-AF2B-4B61-8211-8863240A804E}|git-remote\\git-remote.csproj|D:\\GitTest\\branch ci\\git-remote\\git-remote\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657906B6-AF2B-4B61-8211-8863240A804E}|git-remote\\git-remote.csproj|solutionrelative:git-remote\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657906B6-AF2B-4B61-8211-8863240A804E}|git-remote\\git-remote.csproj|d:\\gittest\\branch ci\\git-remote\\git-remote\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> e3ecedf58cacd196e5aa752037af271ae47f94e7
       "RelativeMoniker": "D:0:0:{657906B6-AF2B-4B61-8211-8863240A804E}|git-remote\\git-remote.csproj|solutionrelative:git-remote\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +35,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\GitTest\\branch main\\git-remote\\git-remote\\Form1.cs",
               "RelativeDocumentMoniker": "git-remote\\Form1.cs",
               "ToolTip": "D:\\GitTest\\branch main\\git-remote\\git-remote\\Form1.cs",
               "RelativeToolTip": "git-remote\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAWAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\GitTest\\branch ci\\git-remote\\git-remote\\Form1.cs",
+              "RelativeDocumentMoniker": "git-remote\\Form1.cs",
+              "ToolTip": "D:\\GitTest\\branch ci\\git-remote\\git-remote\\Form1.cs*",
+              "RelativeToolTip": "git-remote\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAWAAAAAAAAAA==",
+>>>>>>> e3ecedf58cacd196e5aa752037af271ae47f94e7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T17:22:04.841Z",
               "EditorCaption": ""
@@ -37,12 +56,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\GitTest\\branch main\\git-remote\\git-remote\\Form1.cs",
               "RelativeDocumentMoniker": "git-remote\\Form1.cs",
               "ToolTip": "D:\\GitTest\\git-remote\\git-remote\\Form1.cs [Design]",
               "RelativeToolTip": "..\\..\\git-remote\\git-remote\\Form1.cs [Design]",
+=======
+              "DocumentMoniker": "D:\\GitTest\\branch ci\\git-remote\\git-remote\\Form1.cs",
+              "RelativeDocumentMoniker": "git-remote\\Form1.cs",
+              "ToolTip": "D:\\GitTest\\branch ci\\git-remote\\git-remote\\Form1.cs [Design]",
+              "RelativeToolTip": "git-remote\\Form1.cs [Design]",
+>>>>>>> e3ecedf58cacd196e5aa752037af271ae47f94e7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T17:19:56.867Z"
+              "WhenOpened": "2025-09-15T17:19:56.867Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
