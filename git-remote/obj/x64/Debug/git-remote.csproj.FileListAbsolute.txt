@@ -22,7 +22,6 @@ D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.Cor
 D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.exe
 D:\GitTest\branch Soon\git-remote\git-remote\obj\x64\Debug\git-remote.pdb
 >>>>>>> 008d0fec087bf026c1324795059e0c8511488ee6
-<<<<<<< HEAD
 D:\GitTest\branch main\git-remote\git-remote\bin\x64\Debug\git-remote.exe.config
 D:\GitTest\branch main\git-remote\git-remote\bin\x64\Debug\git-remote.exe
 D:\GitTest\branch main\git-remote\git-remote\bin\x64\Debug\git-remote.pdb
@@ -34,7 +33,6 @@ D:\GitTest\branch main\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.Gen
 D:\GitTest\branch main\git-remote\git-remote\obj\x64\Debug\git-remote.csproj.CoreCompileInputs.cache
 D:\GitTest\branch main\git-remote\git-remote\obj\x64\Debug\git-remote.exe
 D:\GitTest\branch main\git-remote\git-remote\obj\x64\Debug\git-remote.pdb
-=======
 D:\GitTest\branch ci\git-remote\git-remote\bin\x64\Debug\git-remote.exe.config
 D:\GitTest\branch ci\git-remote\git-remote\bin\x64\Debug\git-remote.exe
 D:\GitTest\branch ci\git-remote\git-remote\bin\x64\Debug\git-remote.pdb
